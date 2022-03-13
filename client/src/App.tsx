@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       Hello from React App
+      <h1>Hi I'm learning real-time application development.</h1>
     </div>
   );
 }
