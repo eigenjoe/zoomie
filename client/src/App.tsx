@@ -11,6 +11,7 @@ function App() {
 			Hello from React App
 			<h1>Hi I'm learning real-time application development.</h1>
 			<UL>{names}</UL>
+			<h1>I love React with TypeScript</h1>
 		</div>
 	);
 }
